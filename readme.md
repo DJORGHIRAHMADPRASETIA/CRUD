@@ -1,6 +1,3 @@
-# AirlanggaAcademic
-Project Pengembangan Sistem Informasi 2017
-
 ## Requirements:
 * [XAMPP](https://www.apachefriends.org/download.html) (atau tool lain, dengan versi PHP minimal 5.6.4.) 
 * [Composer](https://getcomposer.org/)
